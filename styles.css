@@ -1,0 +1,86 @@
+.navbar{
+    border-bottom: 3px solid #ff405e
+}
+
+.navbar .navbar-nav{
+    margin-left: auto;
+}
+
+.navbar .nav-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active{
+    border-left: #444 3px solid;
+}
+
+.carousel-item{
+    height: 698px;
+}
+
+
+.carousel-image-1{
+    background: url('https://source.unsplash.com/random/800x800?sig=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carousel-image-2{
+    background: url('https://source.unsplash.com/random/800x800?sig=2');
+    background-size: cover;
+}
+
+.carousel-image-3{
+    background: url('https://source.unsplash.com/random/800x800?sig=3');
+    background-size: cover;
+}
+
+#projectTable{
+    margin-top: 100px;
+}
+
+#projectTable button{
+    margin-top: 50px;
+}
+
+#feedbackForm{
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+
+#feedbackForm input{
+    margin-top: 5px;
+    padding: 10px !important
+}
+
+#feedbackForm .form-date{
+    margin-left: 10px;
+    padding: 10px
+}
+
+#feedbackForm textarea{
+    margin-top: 5px;
+    height: 150px;
+}
+
+#feedbackForm .form-check{
+    margin-top: 5px;
+}
+
+#feedbackForm .checkbox{
+    margin-top: 20px;
+}
+
+#blogs{
+    margin-top: 50px;
+}
+
+#blogs .card {
+    margin-top: 50px !important
+}
+
