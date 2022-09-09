@@ -14,10 +14,10 @@ carousel-3
 ![Alt text](images/carousel-3.png?raw=true)
 
 project page
-![Alt text](images/project page.png?raw=true)
+![Alt text](images/projectpage.png?raw=true)
 
 blog page
-![Alt text](images/blog page.png?raw=true)
+![Alt text](images/blogpage.png?raw=true)
 
 feedback page
 ![Alt text](images/feedback.png?raw=true)
